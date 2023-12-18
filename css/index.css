@@ -11,3 +11,6 @@ body.dark-mode {
     width: 100%;
     background-color: #f8f9fa;
   }
+  #footer{
+    background-color: #333;
+  }
