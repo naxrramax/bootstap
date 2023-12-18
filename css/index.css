@@ -1,0 +1,13 @@
+body.dark-mode {
+    background-color: #333;
+    color: #fff;
+  }
+  body {
+    padding-bottom: 70px;
+  }
+  .navbar-bottom {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #f8f9fa;
+  }
